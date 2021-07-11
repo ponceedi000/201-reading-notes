@@ -1,6 +1,6 @@
 # Code 201 Reading Notes
 
-This is my reading notes repo to track all of my reading notes.
+This is my reading notes repo to track all of my reading notes. :+1:
 
 ## About Me
 My name is Eddie. I am a *student* at **CodeFellows.**
