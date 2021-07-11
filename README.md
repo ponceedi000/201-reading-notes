@@ -1,10 +1,10 @@
 # Code 201 Reading Notes
 
-This is my reading notes repo to track all of my reading notes. :+1:
+This is my reading notes repo to track all of my reading notes.
 
 ## About Me
 My name is Eddie. I am a *student* at **CodeFellows.**
-I recently seperated from the U.S Marine Corps and decided to transition into the tech industry simply because I am beyond fascinated with it all. 
+I recently seperated from the U.S Marine Corps and decided to transition into the tech industry simply because I am beyond fascinated with it all. A quote I like to live by is: `Don't limit your challenges, challenge your limits` -Tony Robbins
 
 
 # Table of Contents
