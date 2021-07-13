@@ -14,8 +14,10 @@ A lot has changed the beginning of the world wide web. There have been multiple 
 ### HTML Chapter 17: “HTML5 Layout” (pp.428-451)
 After reading this chapter, I came to the conclusion that HTML5 is evolving fast and becoming more powerful each day. There are now some browsers such as Internet Explorer that can't support or understand HTML5 elements. To attempt making HTML5 work on older browsers now needs someone help of extra JavaScript.
 
-### HTML Chapter 18:
-Lorem
+### HTML Chapter 18: “Process & Design” (pp.452-475)
+As most of us know, there are so many different types of websites that serve different purposes/functions. When creating a website for either yourself or clients, it's important to understand these next topics. Understanding why your target audience visits your website is extremely important because we need to know what their goals of visiting are which then tailor our goals and objectives during process and design phase. 
 
-### JS Chapter 1:
-Lorem
+### JS Chapter 1: “The ABC of Programming” (pp.11-52)
+A quick summarization of this chapter is understanding best practices of JavaScript when it comes to writing code and implementing said code into websites. An example would writing JS into its own .js extension file. You can make your .html document communicate with your .js document by add a <script> tag at the bottom of your body element. Similar to how you link HTML and CSS together. This practice is important because it makes writing, editing, and reading code that much easier for yourself and fellow Developers. Note: though you shouldn't write each language into one document, it's important to understand how to read and edit it because there is a possibilty of running into this style of coding anytime in the future.
+  
+  ## End of Notes
