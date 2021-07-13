@@ -9,7 +9,7 @@ I recently seperated from the U.S Marine Corps and decided to transition into th
 
 # Table of Contents
 1. [Introductory to HTML and JavaScript](class-01.md)
-2. Reading Assignment Two
+2. [Basics of HTML, CSS & JS](class-02.md)
 3. Reading Assignement Three
 4. Reading Assignement Four
 5. Reading Assignement Five
