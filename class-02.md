@@ -21,6 +21,6 @@
   5.Bigint
   6.Symbol
 The most common I've seen used thus far would undefined, Boolean, Number, and String. These data types are incorporated into variables.
--Arrays are a unique because unlike a variables, it can store mutliple values. Arrays are created with square brackets. Example: `let animals = ['cat', 'dog', 'bird'];`.
+-Arrays are a unique because unlike a variables, it can store mutliple values. Arrays are created with square brackets. Example: `let animals = ['cat', 'dog', 'bird'];`. The rest of the chapter describes how to access and change values in an array.
 
 ### Chapter 4: “Decisions and Loops” (pp.145-162) -From the Duckett JS book
