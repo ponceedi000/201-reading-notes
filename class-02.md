@@ -10,7 +10,16 @@
 
 *** 
 ### Chapter 2: “Basic JavaScript Instructions” (pp.53-84) -From the Duckett JS book
-
-
+-In this chapter I was introduced to the bread and butter of Javascript. Today I learned that a statement is used as an individual instruction that is finsished with a semi-colon. This tells JavaScript that a step is over and it should move onto the next step. It can also be organized into code blocks utilizing curly braces.
+-Just like HTML, you can add comments to your code that can be used to your advantage. When away from your code for a while, it's often easy to forget why you wrote or if a peer views it for the first time, this could also help him/her interpret it. These comments never get ran by Javascript.
+-Variables are essential as they are used to store information that can be used later on in your logic as many times as needed. Old syntax for declaring a variable used to be `var`, it's better practice to used `let` and `const` which both serve different purposes.
+-There are 6 data types in JS. The most common I've seen used thus far would undefined, Boolean, Number, and String.
+  1.undefined
+  2.Boolean
+  3.Number
+  4.String
+  5.Bigint
+  6.Symbol
+The most common I've seen used thus far would undefined, Boolean, Number, and String.
 
 ### Chapter 4: “Decisions and Loops” (pp.145-162) -From the Duckett JS book
