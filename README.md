@@ -8,7 +8,7 @@ I recently seperated from the U.S Marine Corps and decided to transition into th
 
 
 # Table of Contents
-1. [Introductory HTML and JavaScript](class-01.md)
+1. [Introductory to HTML and JavaScript](class-01.md)
 2. Reading Assignment Two
 3. Reading Assignement Three
 4. Reading Assignement Four
