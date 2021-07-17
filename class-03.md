@@ -20,5 +20,5 @@
 - For: If you need to run a code a specific amount of times, you want to use a For Loop. 
 - While: If you're unsure how many times your code needs to run, you will use a While Loop.
 - Do While: Very similar to the While Loops except it will run the code inside your curly brackets at least once even if the condition is false.
-- The most fun to write in my opinion is the For Loop which looks like: "`for (lest i = 0; i <10;, i++) {document.write(i);}`" (Intialization: let i + 0; | Condition: i < 10; | Update: i++)
+- The most fun to write in my opinion is the For Loop which looks like: "`for (let i = 0; i <10;, i++) {document.write(i);}`" - page 170 (Intialization: let i + 0; | Condition: i < 10; | Update: i++)
 
