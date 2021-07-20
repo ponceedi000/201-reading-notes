@@ -17,8 +17,16 @@
   * Controlling the position of elements
   * Creating site layouts
   * Designing for different sized screens
-- When developing your CSS in accordance with your HTML, it's important to know the difference between a Block-Level Element and an Inline Element!
-  * 
+- When developing your CSS in accordance with your HTML, it's important to know the difference between a Block-Level Element and an Inline Element! In short, a Block-Level Element starts on a new line and an Inline Element flows in between surrounding text.
+- Containing Elements: 
+- > If one block-level element sits inside another block-level element then the outer box is known as the **containing** or **parent** element. -Duckett
+  * It is pretty common to group multiple elements together inside of a `<div>` element. An example would be your header or your navigation section of the website.
+- There are numerous ways to control the positioning of your elements to create the layout you desire.
+  * Normal Flow
+  * Relative Positioning
+  * Absolute Positioning
+  * Fixed Positioning
+  * Floating Elements
 
 *** 
 
