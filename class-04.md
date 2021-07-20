@@ -1,9 +1,9 @@
 ## Readings : 
 
-### Chapter 3: “Lists” (pp.62-73) -From the Duckett HTML book
+### Chapter 4: Ch.4 “Links” (pp.74-93) -From the Duckett HTML book
 
 
-### Chapter 13: “Boxes” (pp.300-329) -From the Duckett HTML book
+### Chapter 15: “Layout” (pp.358-404)
 
 
 *** 
