@@ -50,4 +50,4 @@
   * Job Interview readiness: Did you know that a common step in many interviews inolves paired programming with a current employee and the applicant? I didn't know that until now!
   * Work Environment readiness: Many companies who hire fresh CS degree personnel often have to spend extra time and resources on teaching them how to deliver a product vs Code Fellows graduates who are **already** familiar with how pari programming works!
  
- ##End of Notes
+ ## End of Notes
