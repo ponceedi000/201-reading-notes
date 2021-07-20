@@ -31,7 +31,11 @@
 *** 
 
 ### Chapter 3 (first part): “Functions, Methods, and Objects” (pp.86-99 ONLY) -From the Duckett JS book
-
+- > Functions let you group a series of statements together to perform a specific task. If differnt parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of statements). - Duckett
+- when creating a function, you give it a name then write your statements inside the curly braces. This is declaring a function: `function sayGoodbye() {document.write('Goodbye!'); }`. Then when you need to call a function later, you write just the name of the function and it will execute the code you declared within it previously.
+- Some functions need information to perform its task. This is where you give it **parameters**. The parameters will act like variables; Example: `function getArea(width, height) {return width * height; }` - Duckett
+- Calling a function with parameters is slightly different than a normal call for a function. For a function with parameters, you specify the values inside it with paranthesis; Example: `getArea(3, 5);`
+- There are also methods to get a single value out of a function or multiple values.
 
 ### Article: “6 Reasons for Pair Programming” -From the Duckett JS book
 
