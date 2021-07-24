@@ -11,7 +11,14 @@
   * >  Like GIF images, PNG also have the ability to display transparent backgrounds. In addition to that, PNG files are capable of containing 24bit RGB color palettes and greyscale images. - www.paintshoppro.com
 
 ### Chapter 11: “Color” (pp.246-263) -From the Duckett HTML book
-
+- In this chapter, the author covered how to specify colors, color terminology, contrast, and background colors.
+- > The color property allows you to specify the color of text inside an element. You can specify any color in CSS in one of three ways:
+  * RGB Values: this used describing how much much red, green, and blue you want together to return a paticular color. Example: `color: rgb(100, 90, 100);`
+  * HEX Code: A six digit code that represents the same concept as RGB. Example: `color: #ee3e81;
+  * Color Names: In CSS, there are 147 predefined color names that can be recognized in browsers. For example: `color DarkBlue;`
+- Background-color is another property to create a color. Like mentioned in earlier notes, HTML see's an element as if it were in its own box. With that being said, you manipulate that color of that box to whatever color you;d like using one of the three methods listed above.
+- Creating proper contrast between the text and the background is important for readibility so make sure your webpage is easy to read.
+- `opacity` is a property used to make an element(s) transparent. You can assign it a value between 0.0(most opaque) and 1.0(most transparent). Example: `opacity: 0.5;`
 
 ### Chapter 12: “Text” (pp.264-299) -From the Duckett HTML book
 
