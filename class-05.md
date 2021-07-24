@@ -22,9 +22,14 @@
 
 ### Chapter 12: “Text” (pp.264-299) -From the Duckett HTML book
 -In this chapter, the author covers size and typeface of text, and differnt text decorations
--With the `font-family` you can select what kind of want you'd like to use for you web page. This wasn't mentioned in the book but you can use Google Fonts where specific font you want that are not default in CSS through a simple process.
+-With the `font-family` you can select what kind of want you'd like to use for you web page. You can also use Google Fonts to pick a specific font you want that are not default in CSS.
   * It's important to understand that not all Operating Systems will display the font selected... that's why it's important to have multiple fonts selected in case the desired font isn't displayed. For example: `font-family: arial, calibri, gill sans;`
   * If you got to https://www.cssfontstack.com/, this will tell you what fonts can and cannot be read on a specific operating systems in case you are unsure.
+- To create a specific font size of an element, you would use `font-size:` and specify what size you want with a unit of measurement such as px, em, %, etc.
+- If you'd like to modify text with bold, use `font-weight bold;`. For italic use `font-style: italic;`. For uppercasing/lowercasing text, use `text-transform: uppercase;`. For underline & strike, use `text-decoration:`.
+- `text-align:` very common to use. You can align text to left, right, center, and justify.
+- IF you'd like like to indent a text, use `text-indent`. You get the point, you can probably remeber most of these properties but if not, it's an easy google search.
+- There are also fun properties such as `:hover`, `:active`, and `:focus` that have cool effects to your text to make the site more interactive!
 
 *** 
 
