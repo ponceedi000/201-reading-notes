@@ -21,7 +21,10 @@
 - `opacity` is a property used to make an element(s) transparent. You can assign it a value between 0.0(most opaque) and 1.0(most transparent). Example: `opacity: 0.5;`
 
 ### Chapter 12: “Text” (pp.264-299) -From the Duckett HTML book
-
+-In this chapter, the author covers size and typeface of text, and differnt text decorations
+-With the `font-family` you can select what kind of want you'd like to use for you web page. This wasn't mentioned in the book but you can use Google Fonts where specific font you want that are not default in CSS through a simple process.
+  * It's important to understand that not all Operating Systems will display the font selected... that's why it's important to have multiple fonts selected in case the desired font isn't displayed. For example: `font-family: arial, calibri, gill sans;`
+  * If you got to https://www.cssfontstack.com/, this will tell you what fonts can and cannot be read on a specific operating systems in case you are unsure.
 
 *** 
 
