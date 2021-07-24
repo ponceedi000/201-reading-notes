@@ -38,6 +38,6 @@
   * JPEG, PNG, and GIF comprise of approx. 95% of image formats loaded on websites
   * JPEG normally contain natural scenes and photographs were variation in color and intensity is smooth
   * PNG is used for any image that needs transparency or has text & objects with sharp contrast edges like logos
-  * GIF is typically used for images that contain images
+  * GIF is typically used for images that contain animations
 
  ## End of Notes
