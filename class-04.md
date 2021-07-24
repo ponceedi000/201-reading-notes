@@ -1,4 +1,4 @@
-## Readings : 
+## Readings : HTML Links, JS Functions, and Intro to CSS Layout Cont'
 
 ### Chapter 4: Ch.4 “Links” (pp.74-93) -From the Duckett HTML book
 - > "links are the defining feature of the web because they allow you to move from one web page to another - enabling the very idea of browsing or surfing." -Duckett
