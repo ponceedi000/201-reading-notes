@@ -12,7 +12,7 @@ I recently seperated from the U.S Marine Corps and decided to transition into th
 2. [Basics of HTML, CSS & JS](class-02.md)
 3. [HTML Lists, Control Flow with JS, and the CSS Box Model](class-03.md)
 4. [HTML Links, JS Functions, and Intro to CSS Layout CONTINUED](class-04.md)
-5. Reading Assignement Five
+5. [Images, Color, Text](class-05.md)
 6. Reading Assignement Six
 7. Reading Assignement Seven
 8. Reading Assignement Eight
