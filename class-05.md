@@ -1,4 +1,4 @@
-## Readings : 
+## Readings : Images, Color, Text
 
 ### Chapter 4: Ch.4 “Links” (pp.74-93) -From the Duckett HTML book
 
