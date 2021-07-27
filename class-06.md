@@ -20,7 +20,7 @@
 - **key:** The name of your object is called a key.
 - Example of object code from JS Duckett book pg.101:
 
-` var hotel = { name: 'Quay', rooms: 40, booked: 25, gym: true, roomTypes: ['twin', 'double', 'suite'], checkAvailability: function() { return this.rooms - this.booked;}};`
+`var hotel = { name: 'Quay', rooms: 40, booked: 25, gym: true, roomTypes: ['twin', 'double', 'suite'], checkAvailability: function() { return this.rooms - this.booked;}};`
   
 - Biggest takeaways:
   * Objects are collections of properties.
