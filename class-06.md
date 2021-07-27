@@ -36,7 +36,21 @@
   * Rather than accessing data using an index, we use custom keys.
 
 ### Chapter 5: “Document Object Model” (pp.183-242) - From the Duckett JS book
--
--
-
+> The Document Object Model specifies how browsers should create a model of an HTML page and how JavaScript can access and update the contents of a web page while it is in the browser window. - Duckett
+- The DOM is unique because it is neither HTML nor JavaScript; DOM is its own entity. It has its own set of rules and it is used by all major web browswers. DOM covers two primary areas:
+  1. Making a model of the html page
+  2. Accessing and changing the html page
+- The DOM Tree is a model of a web page, it creates a model of that page. The model is called a DOM tree, and it is stored in the browsers' memory. It consists of four main types of nodes.
+  1. The document node
+  2. Element nodes
+  3. Attribute nodes
+  4. Text nodes
+- In order to access and update the DOM tree, it requires two steps:
+  1. Locate the node that represents the element you want to work with
+  2. Use its text content, child elements, and attributes
+- DOM is not a quick and easy subject to perfect from my understanding but once you fully you fully understand, you will be able to do the following:
+  * Select element nodes by their id or class attributes
+  * Use DOM queries
+  * From an element node, access and update its content using using properties such as textContent and innerHTML or using DOM manipulation
+  * Use good practices to keep up with modern browsers and JQuery for older browsers that are inconsistent
  ## End of Notes
