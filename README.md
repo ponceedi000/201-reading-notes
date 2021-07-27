@@ -14,13 +14,5 @@ I recently seperated from the U.S Marine Corps and decided to transition into th
 4. [HTML Links, JS Functions, and Intro to CSS Layout CONTINUED](class-04.md)
 5. [Images, Color, Text](class-05.md)
 6. [Problem Domain, Objects, and the DOM](class-06.md)
-7. Reading Assignement Seven
-8. Reading Assignement Eight
-9. Reading Assignement Nine
-10. Reading Assignement Ten
-11. Reading Assignement Eleven
-12. Reading Assignement Twelve
-13. Reading Assignement Thirteen
-14. Reading Assignement Fourteen
-15. Reading Assignement Fifteen
+
 
