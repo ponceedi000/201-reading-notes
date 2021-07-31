@@ -21,12 +21,31 @@
 - Basic Table Structure:
   * `<table>` is used to create a table. The contents of the table wrote out row by row.
   * `<tr>` stands for table row. It's used to indicate the start of each row.
-  * `<td>` stands for table data
+  * `<td>` stands for table data. Each cell of a table is represented using table data elements
+  * `<th>` stands for table heading. It used just like `<td>` but it represents the heading cells in a column or row.
+  * `<thead>` is where headings of the table are fit into
+  * `<tbody>` The body should sit inside the tbody element. Same theory with `<tfoot>` element.
+ 
 ***
 
-
-
 ### Chapter 3: “Functions, Methods, and Objects” (pp.106-144) - From the Duckett JS book
+- Creating an object:
+  * > The `new` keyword and the object constructor create a blank object. You can then add properties and methods to the object. - Duckett
+- Updating an object
+  * If you want to update the value of properties you can use dot notation or constructor notation and to delete, use the `delete` keyword.
+- Creating many objects
+  * In some cases, you will want several objects to represent simlar things.
+  * >  Object constructors can use a function as a **template** for creating objects. Firstly, you'll need to create the template with the object's properties and methods.
+Example:
+-  `function Hotel(name, rooms, booked) {
+this.name = name;
+this.rooms = rooms;
+this.booked = booked;
+
+this.checkAvailability = function() {
+return this.rooms - this.booked;
+};
+} `
 
 
 
