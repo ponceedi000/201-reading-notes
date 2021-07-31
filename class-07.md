@@ -36,19 +36,6 @@
 - Creating many objects
   * In some cases, you will want several objects to represent simlar things.
   * >  Object constructors can use a function as a **template** for creating objects. Firstly, you'll need to create the template with the object's properties and methods.
-Example:
--  `function Hotel(name, rooms, booked) {
-this.name = name;
-this.rooms = rooms;
-this.booked = booked;
-
-this.checkAvailability = function() {
-return this.rooms - this.booked;
-};
-} `
-
-
-
-
+- These were the biggest takeaways for me at the time-being, the rest of the content was still useful but not at the moment.
 
  ## End of Notes
