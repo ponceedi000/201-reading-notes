@@ -15,6 +15,6 @@ I recently seperated from the U.S Marine Corps and decided to transition into th
 5. [Images, Color, Text](class-05.md)
 6. [Problem Domain, Objects, and the DOM](class-06.md)
 7. [Object-Oriented Programming, HTML Tables](class-07.md)
-8. [More CSS Layout](class-08.md)
+8. [More CSS Layout](class-08.md) 
 
 
