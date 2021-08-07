@@ -2,10 +2,21 @@
 ***
 
 ### Chapter 7: “Forms” (p.144-175) - From the Duckett HTML book
--
+-This chapter covered how to collect information from visitors, differnt kinds of form controls, and new HTML5 form controls
+- The chances are you see forms all over the place when surfing the web. The most notable one being Google's searj bar. That would be a form type!
+- There are lots of different form controls that you can use to collect info with such as:
+  * Text input, password input, text area, radio buttons, checkboxes, drop-down boxes, submitting forms, image buttons, file upload, etc.
+- Form Structure: 
+  * Form controls live inside the `<form>` element. This element should always carry the action attribute and method.
 
 ### Chapter 14: “Lists, Tables & Forms” (pp.330-357) - From the Duckett HTML book
--
+- This chapter coveres how to specify bullet point styles, add borders and backgrounds to tables, and change the appearance of form elements
+- The `list-style-type` property allows you to control the shape or style of a bullet point. You could even specify an image to act as bullet point using `list-style-image` 
+- Position the Marker: By default, lists are indented into the page and the `list-style-position` property indicates whether the marker should appear on the inside or the outside of the box containing main points.
+- There are tons of table properties available to use in your CSS:
+  * width, padding, text-transform, letter spacing, fontsize, text align, background-color, etc.
+- Forms are easier to use it the form controls are vertically aligned using CSS.
+- Forms benefit from styles that make them feel more interactive.
 
 *** 
 
