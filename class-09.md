@@ -21,6 +21,15 @@
 *** 
 
 ### Chapter 6: “Events” (pp.243-292) - From the Duckett JS book
--
-
+- > When you broswe the web, your browser registers different types of events. It's the browser's way of saying, "Hey, this just happened." Your script can then respond to these events.
+- Binding is the process of stating which event you are waiting to happen, and which element you are are waiting for that event to happen upon.
+- Different event types: load, keydown, click, focus, input, etc. There are A LOT of different event types that can trigger a function in your JavaScript code.
+- > Event Flow: HTML elements nest inside other elements. If you hover or click on a link, you will also be hoevering or clicking on it's parent elements.
+- > Why flow matters: The flow events only really matters when your code has event handlers on an element and on of its ancestor or descendant elements.
+- Different types of events:
+  * W3C DOM Events
+  * HTML5 Events
+  * BOM Events
+- Events
+***
  ## End of Notes
