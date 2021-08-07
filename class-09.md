@@ -30,6 +30,5 @@
   * W3C DOM Events
   * HTML5 Events
   * BOM Events
-- Events
 ***
  ## End of Notes
