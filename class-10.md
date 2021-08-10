@@ -28,8 +28,11 @@
     * EvalError ->  eval() function used incorrectly
 - Now that we know these common errors, we can understand how to deal with errors:
   * Debugging the script to fix errors:
-    * > If you
-
-
+    * > If you come across an error while writing a script, you will need to debug the code, track down the source of the error, and fix it.
+    * You can use the developer tools available in every modern browser.
+  * Handle errors gracefully:
+    * > You can handle errors gracefully using try, catch, throw, and finally statements.
+    * Occasionally, an error may appear in the script when it's completely out of your control.. Like requesting data from a 3rd party and their servers may be down. This is where it is important to know how to write error-handling code.
+- The rest of this chapter talks about more useful methods for debugging but the notes above cover the most importants fundementals.
 ***
  ## End of Notes
