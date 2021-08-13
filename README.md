@@ -18,5 +18,6 @@ I recently seperated from the U.S Marine Corps and decided to transition into th
 8. [More CSS Layout](class-08.md) 
 9. [Forms and JS Events](class-09.md)
 10. [JS Debugging](class-10.md)
+11. [Audio, Video, Images](class-11.md)
 
 
