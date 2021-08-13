@@ -1,4 +1,4 @@
-## Readings: Debugging
+## Readings: Audio, Video, Images
 ***
 ### Chapter 16: “Images” (pp.406-427) - From the Duckett HTML book
 -
