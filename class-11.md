@@ -12,6 +12,12 @@
   * > Using CSS, it is possible to create a link or button that changes to a second style when a user moves their mosue over it (known as **rollover**) and a third style when they click on it. - Duckett
   * This is typcally where we use psuedo-class like `:hover`.
 ### Chapter 19: “Practical Information” (476-492) - From the Duckett HTML book
--
+- Search Engine Optimization (SEO) helps visitors find your sites when using search engines.
+  * SEO contains on-page and off-page techniques 
+- Analytical tools such as Google Analytics allow you to see how many people visit your site, how they find it, and what they do when they get there.
+  * Great tool to understand the demographics of your site visitors. Collects lots of useful data.
+- To put your site on the web, you will need to obtain a domain name and web hosting.
+- FTP programs allow you to transfer files from your local computer to your web server
+- Many companies provide platforms for blogging, email, newsletter, e-commerce and other popular website tools.
 ***
 ## End of Notes
