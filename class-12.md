@@ -47,7 +47,16 @@
   * > In the chapter about drawing shapes, we used only the default line and fill styles. Here we will explore the canvas options we have at our disposal to make our drawings a little more attractive. You will learn how to add different colors, line styles, gradients, patterns and shadows to your drawings.
   * MDN explains deep details towards how to create modify colors, transparency, line styles, gradients, patterns, shadows, and Canvas fill rules.
 - Drawing Text from [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text)
-    
+  * After learning how to apply styles and colors, the next concept is drawing text onto the canvas.
+  * The canvas rendering context provides two methods to render text:
+    * Fills a given text at the given (x,y) position. Optionally with a maximum width to draw. `fillText(text, x, y [, maxWidth])`
+    * Strokes a given text at the given (x,y) position. Optionally with a maximum width to draw. `strokeText(text, x, y [, maxWidth])`
+  * Styling Text: There are some more properties which let you adjust the way the text gets displayed on the canvas:
+    * `font = value`: This string uses the same syntax as the CSS font property. 
+    * `textAlign = value`: Possible values: `start, end, left, right or center`.
+    * `textBaseline = value`: Possible values: `top, hanging, middle, alphabetic, ideographic, bottom`. The default value is alphabetic.
+    * `direction = value`: Possible values: `ltr, rtl, inherit`. The default value is inherit.  
+![alt text](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text/baselines.png)
 
 ***
 ## End of Notes
