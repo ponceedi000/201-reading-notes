@@ -32,6 +32,8 @@
   
 ### Canvas API
 - Basic Usage of Canvas - From [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage)
-  * 
+  * Initially, a `<canvas>` looks like the `<img>` element, with the only clear difference being that it doesn’t have the `src` and `alt` attributes. The `<canvas>` element only has two attributes and those are `width` and `height`. Those attributes default to 300 px wide and 150 px high when not specified. 
+  * MDN further discusses some other important notes to inlude Fallback content, required `</canvas>` tag, the rendering context, and checking for support.
+  * You can find skeleton examples from MDN's website.
 ***
 ## End of Notes
