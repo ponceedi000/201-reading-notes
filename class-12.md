@@ -25,7 +25,13 @@
 		}
 	]
 }`
-### Chapter 19: “Practical Information” (476-492) - From the Duckett HTML book
-- 
+  * Drawing a pie or bar chart:
+    * Very similar concept but your data structure will look different.
+- Conclusion: 
+  * > The great things about Chart.js are that it’s simple to use and really very flexible. Plus, once you’ve mastered the basics here, you’ll discover that there are tons of options listed in the [documentation](http://www.chartjs.org/docs/).
+  
+### Canvas API
+- Basic Usage of Canvas - From [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage)
+  * 
 ***
 ## End of Notes
