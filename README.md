@@ -20,5 +20,6 @@ I recently seperated from the U.S Marine Corps and decided to transition into th
 10. [JS Debugging](class-10.md)
 11. [Audio, Video, Images](class-11.md)
 12. [Chart.js, Canvas](class-12.md)
+13. [THE PAST, PRESENT & FUTURE OF LOCAL STORAGE FOR WEB APPLICATIONS](class-13.md)
 
 
