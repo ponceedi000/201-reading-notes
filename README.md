@@ -21,5 +21,7 @@ I recently seperated from the U.S Marine Corps and decided to transition into th
 11. [Audio, Video, Images](class-11.md)
 12. [Chart.js, Canvas](class-12.md)
 13. [The Past, Present & Future of Local Storage For Web Applications](class-13.md)
+14. [CSS Transforms, Transitions, and Animations](class-14a.md)
+15. [What Google Learned About Teams](class-14b.md)
 
 
