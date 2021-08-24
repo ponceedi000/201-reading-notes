@@ -2,7 +2,7 @@
 ***
 ### [CSS Transforms](https://learn.shayhowe.com/advanced-html-css/css-transforms/)
 - > With CSS3 came new ways to position and alter elements. Now general layout techniques can be revisited with alternative ways to size, position, and change elements. All of these new techniques are made possible by the transform property.
-- The `transform` property come ins two differnt settings:
+- The `transform` property come ins two different settings:
   * two-dimensional
     * > Two-dimensional transforms work on the x and y axes, known as horizontal and vertical axes.
   * three-dimensional
@@ -42,9 +42,9 @@
 ### [6 Buttons animated](https://codepen.io/retyui/pen/ByoaXV)
 - Check out these cool button animations!
 ### [CSS3 Animations: Keyframes](https://codepen.io/akshaychauhan/pen/oAfae)
-- Greate example of some more animations
+- Great example of some more animations
 ### [404](https://codepen.io/kieranfivestars/pen/MYdQxX)
-- Greate example of some more animations
+- Great example of some more animations
 ### [Pure CSS Bounce Animation](https://codepen.io/dp_lewis/pen/gCfBv)
 - Fun animation!
 ***
