@@ -18,18 +18,31 @@
 ### [Transitions & Animations](https://learn.shayhowe.com/advanced-html-css/transitions-animations/)
 - > Transitions: for a transition to take place, an element must have a change in state, and different styles must be identified for each state. The easiest way for determining styles for different states is by using the `:hover`, `:focus`, `:active`, and `:target pseudo-classes`.
 - Four transitions related properties: (The first three are the most popular)
-  * `transition-property`, `transition-duration`, `transition-timing-function`, `transition-delay`
-
-
-
-
-
+  * `transition-property`
+    * Determines exactly what properties will be altered in conjunction with the other transitional properties.
+  * `transition-duration`
+    * The duration in which a transition takes place is set
+  * `transition-timing-function`
+    * Used to set the speed in which a transition will move
+  * `transition-delay`
+    * Used to set a delay
+- Animations: A great skill to have because it builds out visual interactions from one state to another
+  * The `@keyframes` rule includes the animation name, any animation breakpoints, and the properties intended to be animated.
+  * Animation Name: To do so, the animation-name property is used with the animation name, identified from the @keyframes rule, as the property value.
+  * 
 ### [8 simple CSS3 transitions that will wow your users](https://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users)
--
+1. Fade in: Fade in effects are coded in two steps: first, you set the initial state; next, you set the change
+2. Change color: Changing colors used to involve a ton of math but now we can simply use the `background` property.
+3. Grow & Shrink: We can use the `transform` property to accomplish grow and shrink
+4. Rotate elements: covered above
+5. Square to circle: you can accomplish this with the `BORDER-RADIUS` property
+6. 3D shadow: This effect is achieved by adding a box shadow, and then moving the element on the x axis using the transform and translate properties so that it appears to grow out of the screen.
+7. Swing: Using @keyframes which is covered above
+8. Inset border: 
 ### [6 Buttons animated](https://codepen.io/retyui/pen/ByoaXV)
--
+- 
 ### [CSS3 Animations: Keyframes](https://codepen.io/akshaychauhan/pen/oAfae)
--
+- 
 ### [404](https://codepen.io/kieranfivestars/pen/MYdQxX)
 -
 ### [Pure CSS Bounce Animation](https://codepen.io/dp_lewis/pen/gCfBv)
