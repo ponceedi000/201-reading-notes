@@ -38,15 +38,15 @@
 5. Square to circle: you can accomplish this with the `BORDER-RADIUS` property
 6. 3D shadow: This effect is achieved by adding a box shadow, and then moving the element on the x axis using the transform and translate properties so that it appears to grow out of the screen.
 7. Swing: Using @keyframes which is covered above
-8. Inset border: 
+8. Inset border: We can use the transition in a border using an inset box shadow.
 ### [6 Buttons animated](https://codepen.io/retyui/pen/ByoaXV)
-- 
+- Check out these cool button animations!
 ### [CSS3 Animations: Keyframes](https://codepen.io/akshaychauhan/pen/oAfae)
-- 
+- Greate example of some more animations
 ### [404](https://codepen.io/kieranfivestars/pen/MYdQxX)
--
+- Greate example of some more animations
 ### [Pure CSS Bounce Animation](https://codepen.io/dp_lewis/pen/gCfBv)
-
+- Fun animation!
 ***
 ## End of Notes
 
