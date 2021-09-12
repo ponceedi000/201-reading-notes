@@ -24,4 +24,7 @@ I recently seperated from the U.S Marine Corps and decided to transition into th
 14. [CSS Transforms, Transitions, and Animations](class-14a.md)
 15. [What Google Learned About Teams](class-14b.md)
 
-
+***
+# Code 301 Reading Notes
+# Table of Contents
+1. [Introductory to HTML and JavaScript](class-01.md)
