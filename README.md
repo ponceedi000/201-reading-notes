@@ -7,7 +7,7 @@ My name is Eddie. I am a *student* at **CodeFellows.**
 I recently seperated from the U.S Marine Corps and decided to transition into the tech industry simply because I am beyond fascinated with it all. A quote I like to live by is: `"Don't limit your challenges, challenge your limits." -Tony Robbins`
 
 
-## Table of Contents - Code 201 Reading Notes
+## Table of Contents - Code 201 Foundations of Software Development
 1. [Introductory to HTML and JavaScript](class-01.md)
 2. [Basics of HTML, CSS & JS](class-02.md)
 3. [HTML Lists, Control Flow with JS, and the CSS Box Model](class-03.md)
@@ -26,5 +26,5 @@ I recently seperated from the U.S Marine Corps and decided to transition into th
 
 ***
 
-## Table of Contents - Code 301 Reading Notes
+## Table of Contents - Code 301 Intermediate Software Development
 1. [Introduction to React and Components](301-class-01.md)
