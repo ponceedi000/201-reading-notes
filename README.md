@@ -31,3 +31,4 @@ I recently seperated from the U.S Marine Corps and decided to transition into th
 2. [State and Props](301-class-02.md)
 3. [Passing Functions as Props](301-class-03.md)
 4. [React and Forms](301-class-04.md)
+5. [Putting it all together](301-class-05.md)
