@@ -35,4 +35,5 @@ I recently seperated from the U.S Marine Corps and decided to transition into th
 6. [NODE.JS](301-class-06.md)
 7. [REST](301-class-07.md)
 8. [APIs](301-class-08.md)
+9. [FUNCTIONAL PROGRAMMING](301-class-09.md)
 
