@@ -38,4 +38,5 @@ I recently seperated from the U.S Marine Corps and decided to transition into th
 9. [FUNCTIONAL PROGRAMMING](301-class-09.md)
 10. [In memory storage](301-class-10.md)
 11. [Mongo and Mongoose](301-class-11.md)
+12. [CRUD](301-class-12.md)
 
