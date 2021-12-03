@@ -40,9 +40,9 @@
 
 ### [Alain de Botton on Redefining Success.](https://www.ted.com/talks/alain_de_botton_a_kinder_gentler_philosophy_of_success)
 
--
-  * 
-  * 
+- My Favorite quotes from Alain de Botton:
+  * > "... and when you can't relate to somebody, you dont envy them... The closer two people are -- in age, in background, in the process of identification -- the more there's a danger of envy."
+  * > "... hold your horses when you;re coming to judge people. You don't necessarily know what someone's true value is. That is an unknown part of them, and we shouldn't behave as though it is known."
 
 
 
