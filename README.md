@@ -43,4 +43,4 @@ I recently seperated from the U.S Marine Corps and decided to transition into th
 14. [Authentication](301-class-14.md)
 
 ## Table of Contents - Code 401 Advanced Software Development
-1. [Coming Soon]()
+1. [The Growth Mindset]()
