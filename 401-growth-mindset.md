@@ -18,27 +18,33 @@
 
 ### [Carol Dweck on the Growth Mindset](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve?language=en)
 
-- 
-  * 
-  *
+- Failure Grade V.S. Not Yet Grade
+  * The way we use words and terminology in accordanance with the General Education System can actually cause negative or positive physcological affects.
+    * Instead telling a student they failed, try telling them they haven't solved it ***yet***!
+- Praising Yet
+  * > Praising the process that kids engage in, their effort strategies, their focus, the perseverance, their improvement.
+  
   
 ### [Angela Lee Duckworth on Grit](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance)
 
+- What is Grit? Grit is:
+  * Passion and perseverance for very long-term goals
+  * Having stamina
+  * Sticking with your future, day in, day out
+  * Living life like it's a marathon, not a sprint
+- Chicago Public School Interesting statistics:
+  * Grittier kids were significantly more likely to graduate regardless of home income, family situations, or other common variables.
+- How does one aquire grit?
+  * No one really knows...
+
+
+### [Alain de Botton on Redefining Success.](https://www.ted.com/talks/alain_de_botton_a_kinder_gentler_philosophy_of_success)
+
 -
   * 
-
-
-
-### [Alain de Botton on Redefining Success.]https://www.ted.com/talks/alain_de_botton_a_kinder_gentler_philosophy_of_success)
-
--
-  * 
   * 
 
 
-## Things I want to know more about
-
-- where does Captcha fall under?
 
 ***
  ## End of Notes
