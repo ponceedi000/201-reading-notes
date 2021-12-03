@@ -43,8 +43,10 @@
 - My Favorite quotes from Alain de Botton:
   * > "... and when you can't relate to somebody, you dont envy them... The closer two people are -- in age, in background, in the process of identification -- the more there's a danger of envy."
   * > "... hold your horses when you;re coming to judge people. You don't necessarily know what someone's true value is. That is an unknown part of them, and we shouldn't behave as though it is known."
+  * > "...Let's make sure our ideas of success are truly our own."
+In summary, stay true to yourself. Don't let other deviate from your own path to your success. BUT, you also want to avoid traveling the wrong path to begin with; make sure it is you that wants what you want.
 
-
-
+***
+Emotional Intelligence/biases assessement is private, see tasks on canvas.
 ***
  ## End of Notes
