@@ -44,3 +44,4 @@ I recently seperated from the U.S Marine Corps and decided to transition into th
 
 ## Table of Contents - Code 401 Advanced Software Development
 1. [The Growth Mindset](401-growth-mindset.md)
+2. [Topic](401-class-01.md)
