@@ -49,3 +49,4 @@ I recently seperated from the U.S Marine Corps and decided to transition into th
 4. [FileIO & Exceptions](401-class-03.md)
 5. [Classes, Objects, Recursion, Pytest](401-class-04.md)
 6. [Game of Greed 1](401-class-06.md)
+7. [Game of Greed 2](401-class-07.md)
