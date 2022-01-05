@@ -50,3 +50,4 @@ I recently seperated from the U.S Marine Corps and decided to transition into th
 5. [Classes, Objects, Recursion, Pytest](401-class-04.md)
 6. [Game of Greed 1](401-class-06.md)
 7. [Game of Greed 2](401-class-07.md)
+8. [Game of Greed 3](401-class-08.md)
