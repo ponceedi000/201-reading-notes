@@ -52,3 +52,4 @@ I recently seperated from the U.S Marine Corps and decided to transition into th
 7. [Game of Greed 2](401-class-07.md)
 8. [Game of Greed 3](401-class-08.md)
 9. [Game of Greed 4](401-class-09.md)
+10. [Stacks and Queues](401-class-10.md)
