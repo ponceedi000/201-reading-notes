@@ -53,4 +53,5 @@ I recently seperated from the U.S Marine Corps and decided to transition into th
 8. [Game of Greed 3](401-class-08.md)
 9. [Game of Greed 4](401-class-09.md)
 10. [Stacks and Queues](401-class-10.md)
-11. [Pandas](401-class-11.md)
+11. [NumPy](401-class-11.md)
+12. [Pandas](401-class-12.md)
