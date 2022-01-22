@@ -55,3 +55,4 @@ I recently seperated from the U.S Marine Corps and decided to transition into th
 10. [Stacks and Queues](401-class-10.md)
 11. [NumPy](401-class-11.md)
 12. [Pandas](401-class-12.md)
+13. [Linear Regression](401-class-13.md)
