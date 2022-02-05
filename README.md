@@ -59,3 +59,4 @@ I recently seperated from the U.S Marine Corps and decided to transition into th
 14. [Data Visualization](401-class-14.md)
 15. [Trees](401-class-15.md)
 16. [Serverless Functions](401-class-16.md)
+17. [Web Scraping](401-class-17.md)
