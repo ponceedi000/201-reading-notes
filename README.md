@@ -60,3 +60,5 @@ I recently seperated from the U.S Marine Corps and decided to transition into th
 15. [Trees](401-class-15.md)
 16. [Serverless Functions](401-class-16.md)
 17. [Web Scraping](401-class-17.md)
+18. [Cryptography](401-class-18.md)
+19. [Automation](401-class-19.md)
