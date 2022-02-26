@@ -62,3 +62,4 @@ I recently seperated from the U.S Marine Corps and decided to transition into th
 17. [Web Scraping](401-class-17.md)
 18. [Cryptography](401-class-18.md)
 19. [Automation](401-class-19.md)
+20. [Django](401-class-20.md)
