@@ -3,8 +3,20 @@
 This is my reading notes repo to track all of my reading notes.
 
 ## About Me
-My name is Eddie. I am a *student* at **CodeFellows.**
-I recently seperated from the U.S Marine Corps and decided to transition into the tech industry simply because I am beyond fascinated with it all. A quote I like to live by is: `"Don't limit your challenges, challenge your limits." -Tony Robbins`
+- Hello, my name is Eddie Ponce, and I am a Software Developer based out of Vancouver, WA. I am also a USMC Veteran who served five years on Active-Duty orders as a Ground Intelligence Analyst/Platoon Sergeant and received multiple awards and certifications during my time in service in both CONUS and O-CONUS. I chose to get into Software Development because of the problem solving/critical-thinking aspect of the job and I like to think of myself as a logical thinker. I write code just about everyday and enjoy learning about new technology on my off time! Some professional skills I acquire are leadership, problem-solving, teamwork, commercial awareness, perseverance, and motivation. I'm seeking to make a positive impact in my next workspace and to continuously challenge my limits as a soon-to-be Software Developer.
+
+- The tech stack I love to work with: 
+  * HTML
+  * CSS
+  * JavaScript
+  * Python
+  * MongoDB
+  * Express
+  * React
+  * Node.
+
+ - Favorite Quote:
+   * > "Don't limit your challenges, challenge your limits." -Tony Robbins
 
 
 ## Table of Contents - Code 201 Foundations of Software Development
