@@ -75,3 +75,4 @@ This is my reading notes repo to track all of my reading notes.
 18. [Cryptography](401-class-18.md)
 19. [Automation](401-class-19.md)
 20. [Django](401-class-20.md)
+21. [Django Models](401-class-27.md)
