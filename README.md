@@ -78,3 +78,4 @@ This is my reading notes repo to track all of my reading notes.
 21. [Django Models](401-class-27.md)
 22. [Django Forms](401-class-28.md)
 23. [Django Custom User](401-class-29.md)
+24. [Django REST Framework & Docker](401-class-31.md)
