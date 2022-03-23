@@ -80,3 +80,4 @@ This is my reading notes repo to track all of my reading notes.
 23. [Django Custom User](401-class-29.md)
 24. [Django REST Framework & Docker](401-class-31.md)
 25. [Permissions & Postgresql](401-class-32.md)
+26. [Authentication & Production Server](401-class-33.md)
