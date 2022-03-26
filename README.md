@@ -81,3 +81,4 @@ This is my reading notes repo to track all of my reading notes.
 24. [Django REST Framework & Docker](401-class-31.md)
 25. [Permissions & Postgresql](401-class-32.md)
 26. [Authentication & Production Server](401-class-33.md)
+27. [API Deployment](401-class-34.md)
