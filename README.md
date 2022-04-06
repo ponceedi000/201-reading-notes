@@ -9,11 +9,14 @@ This is my reading notes repo to track all of my reading notes.
   * HTML
   * CSS
   * JavaScript
-  * Python
   * MongoDB
   * Express
   * React
-  * Node.
+  * Node.js
+  * Next.js
+  * Python
+  * Django
+  * Wordpress
 
  - Favorite Quote:
    * > "Don't limit your challenges, challenge your limits." -Tony Robbins
