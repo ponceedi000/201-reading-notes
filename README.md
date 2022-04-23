@@ -88,3 +88,5 @@ This is my reading notes repo to track all of my reading notes.
 28. [DSA Review](401-class-36.md)
 29. [React 1](401-class-37.md)
 30. [React 2](401-class-38.md)
+31. [React 3](401-class-39.md)
+32. [React 4](401-class-41.md)
