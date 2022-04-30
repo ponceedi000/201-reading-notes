@@ -91,3 +91,4 @@ This is my reading notes repo to track all of my reading notes.
 31. [React 3](401-class-39.md)
 32. [React 4](401-class-41.md)
 33. [Pythonisms](401-class-42.md)
+34. [Open-Source Software Contribution](401-class-43.md)
